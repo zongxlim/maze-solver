@@ -1,7 +1,7 @@
 # maze-solver
 An assignment from my Data Structures Course (Spring 2018) that utilizes the Java's Stack ADT to solve a maze via Maze.java. The command line should follow the syntax: 
 
-java Maze <mazeFile> [--solve]
+java Maze \<mazeFile\> [--solve]
  
 A solved maze will be displayed after! The mazes (maze.txt, maze1.txt, maze2.txt, maze3.txt, maze4.txt, & maze5.txt) are rectangular and have walls along the entire outside of the maze, with no gaps in these outer walls. A “start square” (S) and a “finish square” (F) is indicated and the goal of the maze-solver is to get from S to F.
 
@@ -10,7 +10,7 @@ HW04: Maze solver by Jed Yang)
 
 "Maze files have the following structure:
 
-Number of columns   Number of row
+\<Number of columns\>  \<Number of row\>
  
 <0-based column number of the start square> <0-based row number of the start square> 
 

@@ -33,31 +33,6 @@ _ (underscore) means that the square has a bottom wall, but no left wall
 
 . (dot) means that the square has neither a bottom wall nor a left wall
 
-Putting this together in a small example, if the input file contains the following:
-
-
-3 2     [The maze has 3 columns and 2 rows]
-
-0 0     [The start square is at the upper left]
-
-2 0     [The finish square is at the upper right]
-
-L.|     [(0,0) has left and bottom walls; (1,0) has neither left nor bottom; (2,0) has just left]
-
-L__     [(0,1) has left and bottom walls; (1,1) has just bottom; (2,1) has just bottom]
-
-which yields this maze:
-
-+---+---+---+
-
-| S     | F |
-
-+---+   +   +
-
-|           |
-
-+---+---+---+
-
 "
 
 Mazes in maze2.txt and maze5.txt are meant to test the edge cases for my maze solvers and cannot be solved! 

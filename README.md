@@ -10,7 +10,7 @@ HW04: Maze solver by Jed Yang)
 
 "Maze files have the following structure:
 
-<Number of columns><Number of row>
+Number of columns   Number of row
  
 <0-based column number of the start square> <0-based row number of the start square> 
 

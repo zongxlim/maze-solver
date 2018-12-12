@@ -13,6 +13,8 @@ HW04: Maze solver by Jed Yang)
 
 <Number of columns> <Number of rows>
  
+<Number of columns> <Number of rows>
+ 
 <0-based column number of the start square> <0-based row number of the start square> 
 
 <0-based column number of the finish square> <0-based row number of the finish square> 

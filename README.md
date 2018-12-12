@@ -35,3 +35,5 @@ _ (underscore) means that the square has a bottom wall, but no left wall
 "
 
 Mazes in maze2.txt and maze5.txt are meant to test the edge cases for my maze solvers and cannot be solved! CarlStack.class is the implementation of a Stack interface (Stack.java), both provided by my professor, Jed Yang.
+
+MazeSquare.java is used in Maze.java to build each squares in the maze!

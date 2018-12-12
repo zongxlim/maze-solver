@@ -17,6 +17,7 @@ HW04: Maze solver by Jed Yang)
 <0-based column number of the finish square> <0-based row number of the finish square> 
 
 <Row 0 description>
+
 <Row 1 description>
 
 ...

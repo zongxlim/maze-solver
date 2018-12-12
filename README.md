@@ -3,7 +3,7 @@ An assignment from my Data Structures Course (Spring 2018) that utilizes the Jav
 
 java Maze \<mazeFile\> [--solve]
  
-A solved maze will be displayed after! The mazes (maze.txt, maze1.txt, maze2.txt, maze3.txt, maze4.txt, & maze5.txt) are rectangular and have walls along the entire outside of the maze, with no gaps in these outer walls. A “start square” (S) and a “finish square” (F) is indicated and the goal of the maze-solver is to get from S to F.
+A solved maze will be displayed after! The mazes (e.g. maze.txt, maze1.txt, maze2.txt, maze3.txt, maze4.txt, & maze5.txt) are rectangular and have walls along the entire outside of the maze, with no gaps in these outer walls. A “start square” (S) and a “finish square” (F) is indicated and the goal of the maze-solver is to get from S to F.
 
 The below is taken from the instructions of the assignment (Carleton College CS 201: Data Structures (Spring 2018)
 HW04: Maze solver by Jed Yang)
